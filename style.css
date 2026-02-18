@@ -13,3 +13,11 @@ ul li{
 a{
     text-decoration: none;
 }
+header{
+    padding:50px 0;}
+    background-color: red;
+}
+h1,h2{
+    color: yellow;
+    tex-align: center
+}
